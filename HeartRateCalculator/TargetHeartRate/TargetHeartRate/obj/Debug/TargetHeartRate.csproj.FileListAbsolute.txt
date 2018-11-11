@@ -1,0 +1,7 @@
+D:\Documents\Programming\C#\TargetHeartRate\TargetHeartRate\bin\Debug\TargetHeartRate.exe.config
+D:\Documents\Programming\C#\TargetHeartRate\TargetHeartRate\bin\Debug\TargetHeartRate.exe
+D:\Documents\Programming\C#\TargetHeartRate\TargetHeartRate\bin\Debug\TargetHeartRate.pdb
+D:\Documents\Programming\C#\TargetHeartRate\TargetHeartRate\obj\Debug\TargetHeartRate.csprojAssemblyReference.cache
+D:\Documents\Programming\C#\TargetHeartRate\TargetHeartRate\obj\Debug\TargetHeartRate.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\C#\TargetHeartRate\TargetHeartRate\obj\Debug\TargetHeartRate.exe
+D:\Documents\Programming\C#\TargetHeartRate\TargetHeartRate\obj\Debug\TargetHeartRate.pdb
